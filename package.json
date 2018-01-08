@@ -1,0 +1,9 @@
+{
+  "name": "NgShared",
+  "version": "0.0.0",
+  "description": "Utils module for my Angular projects",
+  "main": "index.js",
+  "repository": "git@github.com:Edouardbozon/NgShared.git",
+  "author": "edouardbozon <bozonedouard@gmail.com>",
+  "license": "MIT"
+}
